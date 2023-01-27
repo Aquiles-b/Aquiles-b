@@ -1,4 +1,6 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=69DDFF&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f8f9f9&size=45&center=true&vCenter=true&width=1000&lines=Opaa,+bem+vindo+aqui;Meu+nome+é+Aquiles+:%29;Helloo,+welcome+here;My+name+is+Aquiles+:%29)](https://git.io/typing-svg)
 
 <i class="devicon-c-plain"></i>          
 <a href="https://github.com/Aquiles-b/github-readme-stats">
