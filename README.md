@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f8f9f9&repeat=false&duration=3000&pause=1490&size=45&center=true&vCenter=true&width=1000&lines=Hello,+welcome+:%29)](https://git.io/typing-svg) 
 
 👋Opa , Sou o Aquiles🧛‍♂️.  
-Atualmente estou no 3º período da 🎓graduação 
+Atualmente estou no 3º período da 🎓graduação    
 em 💻Ciência da Computação na UFPR🏛  
 
 ![](https://github-readme-stats.vercel.app/api?username=Aquiles-b&show_icons=true&title_color=69DDFF&icon_color=CA2E55&text_color=f8f9f9&bg_color=DEG,1f1922,3a2f3e&border_color=5d5162&theme=transparent")
