@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f8f9f9&repeat=false&duration=6000&pause=1490&size=45&center=true&vCenter=true&width=1000&lines=Hello,+welcome+:%29)](https://git.io/typing-svg)  
 # 👋Opa , Sou o Aquiles🧛‍♂️    
-- ### Atualmente estou no 3º período da 🎓graduação<BR> em 💻Ciência da Computação na UFPR🏛  
+- ### Atualmente estou no 4º período da 🎓graduação<BR> em 💻Ciência da Computação na UFPR🏛  
 
 <p align="left">
  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aquiles-b&layout=compact&langs_count=8&count_private=false)](https://github.com/Aquiles-b/github-readme-stats">
