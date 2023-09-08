@@ -13,7 +13,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aquiles-b&bg_color=0d1117&color=c3daf9&line=f455f7&point=47f07f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)  
  
 ## Skills
-[![My Skills](https://skills.thijs.gg/icons?i=c,py,linux,mysql,ps)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=c,cpp,py,linux,mysql,ps)](https://skills.thijs.gg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=69DDFF&height=120&section=footer"/>
 
