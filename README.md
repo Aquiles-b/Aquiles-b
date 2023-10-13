@@ -14,10 +14,10 @@
  
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)★ ★ ★ ★ ★  
+[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)★ ★ ★ ★ ★
 [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)★ ★ ★ ★ ☆  
-[![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)★ ★ ★ ★ ☆  
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)★ ★ ★ ☆ ☆
+[![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)★ ★ ★ ★ ☆
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)★ ★ ★ ☆ ☆  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=69DDFF&height=120&section=footer"/>
 
