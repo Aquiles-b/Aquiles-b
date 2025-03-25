@@ -4,7 +4,7 @@
 ## Olá. meu nome é Bruno Aquiles. <br> Estudo Ciência da Computação na UFPR.
 
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aquiles-b&layout=compact&langs_count=8&count_private=false)](https://github.com/Aquiles-b/github-readme-stats" >
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aquiles-b&layout=compact&langs_count=8&count_private=true)](https://github.com/Aquiles-b/github-readme-stats" >
 <br>
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aquiles-b&show_icons=true&title_color=69DDFF&icon_color=CA2E55&text_color=f8f9f9&bg_color=DEG,1f1922,3a2f3e&border_color=5d5162&theme=transparent">
 
